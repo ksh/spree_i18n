@@ -5,10 +5,10 @@ pt-PT:
   5_biggest_spenders: "5 Biggest Spenders"
   a_copy_of_all_mail_will_be_sent_to_the_following_addresses: A copy of all mail be sent to the following addresses
   abbreviation: Abreviação
-  access_denied: "Accesso Recusado"
+  access_denied: "Acesso Recusado"
   account: Conta
   account_updated: "Account updated!"
-  action: Acção
+  action: Ação
   actions: 
     cancel: Cancelar
     create: Criar
@@ -16,22 +16,22 @@ pt-PT:
     list: Lista
     listing: Listagem
     new: Nova
-    update: Actualizar
-  active: "Active"
+    update: Atualizar
+  active: "Ativo"
   activerecord: 
     attributes: 
       address: 
         address1: Morada
-        address2: "Morada (contd.)"
+        address2: "Morada (cont.)"
         city: Cidade
-        country: "Country"
-        first_name_begins_with: "First Name Begins With"
+        country: País
+        first_name_begins_with: "Nome Começa Por"
         firstname: "First Name"
-        last_name_begins_with: "Last Name Begins With"
-        lastname: "Last Name"
+        last_name_begins_with: "Apelido Começa Por"
+        lastname: Apelido
         phone: Telefone
         state: "State"
-        zipcode: "Codigo Postal"
+        zipcode: "Código Postal"
       checkout: 
         bill_address: 
           address1: "Billing address street"
@@ -78,7 +78,7 @@ pt-PT:
         total: Total
       product: 
         available_on: "Disponivel Em"
-        cost_price: "Cost Price"
+        cost_price: "Preço de Custo"
         description: Descrição
         master_price: "Preço Base"
         name: Nome
@@ -89,16 +89,16 @@ pt-PT:
         name: "Name"
         product_count: "Product count"
         product_scopes: "Product scopes"
-        products: "Products"
+        products: "Produtos"
         url: "URL"
       product_scope: 
         arguments: "Arguments"
         description: "Description"
       promotion: 
         code: "Code"
-        description: "Description"
+        description: "Descrição"
         expires_at: "Expires at"
-        name: "Name"
+        name: "Nome"
         starts_at: "Starts at"
         usage_limit: "Usage limit"
       property: 
@@ -107,14 +107,14 @@ pt-PT:
       prototype: 
         name: Nome
       return_authorization: 
-        amount: Amount
+        amount: Valor
       role: 
         name: Nome
       state: 
         abbr: Abreviatura
         name: Nome
       tax_category: 
-        description: Description
+        description: Descrição
         name: Name
       tax_rate: 
         amount: Rate
@@ -142,8 +142,8 @@ pt-PT:
         one: Morada
         other: Moradas
       cheque_payment: 
-        one: Cheque Payment
-        other: Cheque Payments
+        one: "Pagamento por Cheque"
+        other: "Pagamentos por Cheque"
       country: 
         one: País
         other: Países
@@ -151,11 +151,11 @@ pt-PT:
         one: "Cartão de Credito"
         other: "Cartões de Credito"
       creditcard_payment: 
-        one: "Pagamento por Cartão de Credito"
-        other: "Pagamentos por Cartão de Credito"
+        one: "Pagamento por Cartão de Crédito"
+        other: "Pagamentos por Cartão de Crédito"
       creditcard_txn: 
-        one: "Transacção com Cartão de Credito"
-        other: "Transacções com Cartão de Credito"
+        one: "Transação com Cartão de Crédito"
+        other: "Transações com Cartão de Crédito"
       inventory_unit: 
         one: "Unidade de Inventario"
         other: "Unidades de Inventario"
